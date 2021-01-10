@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Consumer": {
+      "commandName": "Project",
+      "commandLineArgs": "subscribe localhost:9092 topic or-topic"
+    }
+  }
+}
